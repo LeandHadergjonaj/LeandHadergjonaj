@@ -117,8 +117,8 @@ session tracking, and plan gating. Built and shipped solo.
   self-hosted github-readme-stats instance. The public demo host below can see
   public data only. To go live with real private numbers:
     1. Enable Settings -> Public profile -> "Include private contributions on my
-       profile". This alone makes the streak card + contribution snake reflect
-       real private totals (anonymised), no token required.
+       profile". This alone makes the streak card + 3D contribution graph
+       reflect real private totals (anonymised), no token required.
     2. Deploy your own github-readme-stats to Vercel with a PAT (scope: repo) set
        as the PAT_1 env var, then replace both "github-readme-stats.vercel.app"
        hostnames below with your instance. That unlocks private stats on the two
