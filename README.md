@@ -40,7 +40,7 @@ how much of your window is left.
 app that quietly watches keyboard and mouse activity to build an honest picture of how
 you actually spend time at the machine.
 
-**[RentScope](https://github.com/LeandHadergjonaj/RentScope)** — applied ML on the Greater
+**[PROJECT](https://github.com/LeandHadergjonaj/PROJECT)** — applied ML on the Greater
 London rental market: Ridge Regression over multi-source data, wrapped in a Streamlit
 dashboard. My Royal Holloway final-year dissertation.
 
