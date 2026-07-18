@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/LeandHadergjonaj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=D97757&center=true&vCenter=true&width=620&lines=AI+%2F+Data+Science+Engineer+%E2%80%94+London;I+build+AI-native+tools+and+automation;If+it+happens+twice%2C+it+gets+automated;Model+in+the+loop+from+the+first+commit" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=D97757&center=true&vCenter=true&width=620&lines=I+build+the+tools+I+wish+already+existed;If+it+happens+twice%2C+I+automate+it;AI+in+the+loop+from+the+first+commit;Open+source+by+default" alt="Typing SVG" />
   </a>
 </p>
 
@@ -111,8 +111,22 @@ session tracking, and plan gating. Built and shipped solo.
 
 ## GitHub Activity
 
+<!--
+  These cards already request count_private=true & include_all_commits=true so they
+  will surface PRIVATE contribution activity — but only when served from your OWN
+  self-hosted github-readme-stats instance. The public demo host below can see
+  public data only. To go live with real private numbers:
+    1. Enable Settings -> Public profile -> "Include private contributions on my
+       profile". This alone makes the streak card + contribution snake reflect
+       real private totals (anonymised), no token required.
+    2. Deploy your own github-readme-stats to Vercel with a PAT (scope: repo) set
+       as the PAT_1 env var, then replace both "github-readme-stats.vercel.app"
+       hostnames below with your instance. That unlocks private stats on the two
+       cards. Nothing here is hardcoded; every number is fetched live per request.
+-->
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeandHadergjonaj&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=D97757&icon_color=D97757&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeandHadergjonaj&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=21600&bg_color=0d1117&title_color=D97757&icon_color=D97757&text_color=c9d1d9" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandHadergjonaj&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=D97757&text_color=c9d1d9" alt="Top languages" />
 </p>
 
