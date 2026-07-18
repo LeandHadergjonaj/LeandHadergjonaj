@@ -138,8 +138,16 @@ session tracking, and plan gating. Built and shipped solo.
 
 📍 London · AI / Data Science Engineer · open to collaborating on interesting automation or AI tooling.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeandHadergjonaj/LeandHadergjonaj/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeandHadergjonaj/LeandHadergjonaj/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/LeandHadergjonaj/LeandHadergjonaj/output/github-snake.svg" />
-</picture>
+<!--
+  3D isometric contribution graph (orange theme). Regenerated daily by
+  .github/workflows/profile-3d.yml, which renders live contribution data with
+  yoshi389111/github-profile-3d-contrib and publishes the SVG to the output
+  branch. Bar heights + colours come straight from the account's real
+  contribution calendar — nothing here is hardcoded. Enable Settings -> Public
+  profile -> "Include private contributions on my profile" so private activity
+  is counted in the bars too.
+-->
+
+<p align="center">
+  <img alt="3D isometric contribution graph — live, orange theme" src="https://raw.githubusercontent.com/LeandHadergjonaj/LeandHadergjonaj/output/profile-orange.svg" width="880" />
+</p>
